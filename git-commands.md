@@ -1,6 +1,6 @@
 To check the git version -> `git --version`
 
-To check the git cofig --> `git config --list`
+To check the git cofiguration list --> `git config --list`
 
 To edit the username and email -> `git config --global user.name "Mahesh Kumar"`
 `git config --global user.email "maheshcodeinn@gmail.com"`
