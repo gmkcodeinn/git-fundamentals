@@ -24,3 +24,7 @@ To commit the changes (snapshot) -> `git commit -m "initial commit"`
 shorthand syntax -> `git commit -a -m "initial commit"` or `git commit -am "initial commit"`
 
 To open the preview of readme file `cmd+k v`
+
+Differences in file changes can check using VSCode git diff
+
+Git Lens is popular extension for VSCode Editor
