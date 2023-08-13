@@ -2,9 +2,9 @@ To check the git version -> `git --version`
 
 To check the git cofiguration list --> `git config --list`
 
-To edit the username and email -> `git config --global user.name "Mahesh Kumar"`
+To edit the user name -> `git config --global user.name "Mahesh Kumar"`
                                   
-                                  `git config --global user.email "maheshcodeinn@gmail.com"`
+To edit the user email -> `git config --global user.email "maheshcodeinn@gmail.com"`
 
 To exit out of the command prompt editor -> enter `:q`
 
