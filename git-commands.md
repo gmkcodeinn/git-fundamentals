@@ -28,3 +28,9 @@ To open the preview of readme file `cmd+k v`
 Differences in file changes can check using VSCode git diff
 
 Git Lens is popular extension for VSCode Editor
+
+To check remote repos -> `git remote` or `git remote -v`
+To add remote repo to git repo -> `git remote add origin https://github.com/gmkcodeinn/git-fundamentals.git`
+To know more about remote repo -> `git remote show origin`
+
+To push the code -> `git push origin master -u` -> mentioning as upstrem branch (as single source of truth)
