@@ -34,3 +34,9 @@ To add remote repo to git repo -> `git remote add origin https://github.com/gmkc
 To know more about remote repo -> `git remote show origin`
 
 To push the code -> `git push origin master -u` -> mentioning as upstrem branch (as single source of truth)
+
+To fetch the changes from remote repo -> `git fetch`
+
+To merge the branches -> `git merge origin/master`
+
+To pull the changes from remote (instead of fetch and merge) -> `git pull origin master` or `git pull` (becuase of upstream branch)
